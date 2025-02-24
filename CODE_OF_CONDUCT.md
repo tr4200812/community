@@ -1,4 +1,6 @@
-## Overview and Purpose
+{
+
+Overview and Purpose
 
 Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
 
@@ -116,3 +118,4 @@ This Code of Conduct does not modify our [Terms of Service](https://docs.github.
 ### Data Retention and Deletion of Data
 
 If you're a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting [GitHub Support](https://support.github.com/contact). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+}
